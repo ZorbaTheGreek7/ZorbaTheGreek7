@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ZorbaTheGreek7
+# 👋 Hi, I'm Omar Elnahal
 
 **Application Security Team Lead | Secure Software Development | Threat Modeling | DevSecOps Advocate**
 
